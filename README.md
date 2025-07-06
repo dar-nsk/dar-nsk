@@ -73,21 +73,30 @@ Here are a few technologies I’ve been working with recently:
 
 ---
 
-**1️⃣ Skinderma** [🔗](https://github.com/dar-nsk/Skinderma)  
+**1️⃣ Skinderma**
+
+[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github&logoColor=white)](https://github.com/dar-nsk/Skinderma)
+
 *Smart companion for healthier, more confident skin.*
 
 **Tech Stack:** HTML · CSS · Node.js · MySQL · TensorFlow
 
 ---
 
-**2️⃣ CalmConnect** [🔗](https://github.com/dar-nsk/CalmConnect)  
+**2️⃣ CalmConnect**
+
+[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github&logoColor=white)](https://github.com/dar-nsk/CalmConnect)
+
 *Your safe space for mental wellness—self-assess, connect with counselors, and nurture your mind with personalized support anytime, anywhere.*
 
 **Tech Stack:** React · Next.js · MongoDB · Express.js
 
 ---
 
-**3️⃣ Togetherly** [🔗](https://github.com/dar-nsk/Togetherly)  
+**3️⃣ Togetherly**
+
+[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github&logoColor=white)](https://github.com/dar-nsk/Togetherly)
+
 *Secure, real-time community platform that connects users based on shared interests and locations.*
 
 **Tech Stack:** React · Spring Boot · PostgreSQL
