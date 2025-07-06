@@ -6,27 +6,31 @@
 ✨ **About Me**
 
 🎓 Currently pursuing B.Tech in Computer Engineering at **[KKWIEER,Nashik]**
+💡 I am passionate about developing solutions to real-world problems and sharpening my skills through competitive programming.
 
+---
 
 🏆 **Achievements:**  
-- [Amazon Future Engineer Scholar 2024]
-- [Mentee at Codess Cafe]
-- [Google Arcade Facilitator Program 2024 (Cohort 2- Jul to Sep)- Advanced Milestone]
-- [Prototype phase- Truth Tell hackthon 2025] 
-
-💡 I am passionate about developing solutions to real-world problems and sharpening my skills through competitive programming.
+- Amazon Future Engineer Scholar 2024
+- Mentee at Codess Cafe
+- Google Arcade Facilitator Program 2024 (Cohort 2- Jul to Sep)- Advanced Milestone
+- Prototype phase- Truth Tell hackthon 2025
 
 ---
  🧩 **Competitive Programming Profiles**
 
-- [LeetCode](https://leetcode.com/u/mhjndarshana/)
-- [Codeforces](https://codeforces.com/profile/mhjndarshana) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/mhjndarshana/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mhjndarshana)
 
 ---
 
-🚀 **Quick Links**
+🤝 **Let’s Connect!**
 
- • [💼 LinkedIn]](https://www.linkedin.com/in/darshana-mahajan-b4a588289/) 
+Feel free to connect and collaborate 🤝
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/darshana-mahajan-b4a588289/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/dar-nsk)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-red?logo=gmail)](mailto:mahajandarshana299@gmail.com)
 
 ---
 
@@ -80,16 +84,6 @@ Here are a few technologies I’ve been working with recently:
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dar-nsk&layout=compact" alt="Top Languages" />
 </p>
-
----
-
-🤝 **Let’s Connect!**
-
-Feel free to connect and collaborate 🤝
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/darshana-mahajan-b4a588289/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/dar-nsk)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-red?logo=gmail)](mailto:mahajandarshana299@gmail.com)
 
 ---
 
