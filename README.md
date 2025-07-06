@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm [Darshana Mahajan]</h1>
+<h1 align="center">👋 Hello, I'm Darshana Mahajan</h1>
 <p align="center">🌟 Computer Engineering Student | Aspiring Software Engineer | Tech Enthusiast</p>
 
 ---
