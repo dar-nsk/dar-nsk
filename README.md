@@ -5,7 +5,7 @@
 
 ✨ **About Me**
 
-🎓 Currently pursuing B.Tech in Computer Engineering at **[KKWIEER,Nashik]**
+🎓 Currently pursuing B.Tech in Computer Engineering at **KKWIEER,Nashik**
 💡 I am passionate about developing solutions to real-world problems and sharpening my skills through competitive programming.
 
 ---
