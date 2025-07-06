@@ -76,9 +76,9 @@ Here are a few technologies I’ve been working with recently:
 📈 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" alt="dar-nsk's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dar-nsk&show_icons=true&theme=default" alt="dar-nsk's GitHub stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dar-nsk&layout=compact" alt="Top Languages" />
 </p>
 
 ---
